@@ -31,11 +31,23 @@ How to use this app:
 
 
 Packages imported:
+
+
   ● Mapbox Search: https://github.com/mapbox/search-ios.git
+
+  
     ○ Used to display a search panel, auto-fill an address search, and find coordinates of the user’s inputs
+
+    
   ● Mapbox navigation: https://github.com/mapbox/mapbox-navigation-ios.git
+
+  
     ○ Used to calculate ETAs, draw routes, and show navigation instructions
+
+    
   ● Firebase: https://github.com/firebase/firebase-ios-sdk
+
+  
     ○ Used to manage user logins through firebase and user preferences through firestore
 
 
