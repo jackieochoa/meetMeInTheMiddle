@@ -10,11 +10,23 @@ turn-by-turn navigation instructions.
 
 
 How to use this app:
+
+
   ● You can log in or create your own account on the first VC
+
+  
   ● The main screen will immediately load a map centered on the user location.
+
+  
   ● To start a search, click on “start your engine!”. This will launch a search bar where you can input your friend’s location. After selecting their location, you can search for your destination.
+
+  
   ● The app will send an alert to tell the user if they should wait or leave immediately
+
+  
   ● If the user should wait, they will be sent to a waiting screen with a countdown timer.
+
+  
   ● Once the user needs to leave, the navigation instructions will show :-)
 
 
